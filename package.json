@@ -1,0 +1,42 @@
+{
+  "name": "arkatheme3",
+  "displayName": "ArkaTheme3",
+  "description": "A bold dark theme with a sleek black + red aesthetic. Minimal, modern, and built for focus.",
+  "version": "1.1.1",
+  "icon": "images/icon.png",
+  "publisher": "arkabanerjee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thearkabanerjee/ArkaTheme3"
+  },
+  "bugs": {
+    "url": "https://github.com/thearkabanerjee/ArkaTheme3/issues"
+  },
+  "keywords": [
+    "theme",
+    "arka",
+    "arkabanerjee",
+    "arkatheme",
+    "arkatheme3",
+    "vscode","Ayu", "Elegant", "nord", "Nord Themes",
+    "dark",
+    "high-contrast",
+    "high-contrast-theme",
+    "color-theme",
+    "ui","dark theme", "light","Github", "Dracula", "Red Themes"],
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ArkaTheme 3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ArkaTheme 3-color-theme.json"
+      }
+    ]
+  }
+}
