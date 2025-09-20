@@ -48,7 +48,7 @@ To get the best look:
 
 ## 🧑‍💻 Contributing
 
-Have suggestions? Open an [issue](https://github.com/theArkaBanerjee/ArkaTheme3/issues) or submit a PR.
+Have suggestions? Open an [issue](https://github.com/thearkabanerjee/ArkaTheme3/issues) or submit a PR.
 Every improvement makes the theme better for all developers.
 
 ## 📜 License
